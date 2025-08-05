@@ -6,13 +6,18 @@
 
 This n8n workflow automates the process of extracting business leads from Google Maps and saving them to Google Sheets. It is designed for users who want to collect business information (such as phone numbers, addresses, ratings, and more) for specific subcategories and zip codes.
 
-## Problem 
+## Problem
 
 Manually searching for business leads on Google Maps and organizing them in spreadsheets is time-consuming, repetitive, and prone to errors. Businesses and marketers need a scalable way to collect accurate contact and location data for targeted outreach and analysis.
 
-## Solution 
+## Solution
 
 This workflow automates the entire process: it reads your target zip codes and business subcategories from Google Sheets, queries Google Maps for matching businesses, and writes the results back to your spreadsheet. It handles duplicates, errors, and API limits, making lead generation fast, reliable, and hands-free.
+
+## Workflow link
+
+[Leads-extractor on GitHub](https://github.com/MajorAbdullah/Leads-extractor)
+✨ Follow me for more creative automation workflows and data hacks—let's make your work smarter, not harder!
 
 ## Features
 
@@ -58,7 +63,8 @@ This workflow automates the entire process: it reads your target zip codes and b
 ## Author
 
 * 🌐 Connect with me on LinkedIn: [Syed Abdullah Shah](http://www.linkedin.com/in/syed-abdullah-shah-4018a5176)
-* 📩 Email: [sa.abdullahshah.2001@gmail.com](mailto:sa.abdullahshah.2001@gmail.com)
+* 📩 Email: [sa.abdullahshah.2001@gmail.com
+  ](mailto:sa.abdullahshah.2001@gmail.com)
 
 ---
 
